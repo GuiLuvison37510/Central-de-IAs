@@ -1,12 +1,18 @@
-# Lodestar Search Beta
+# Lodestar Search
 
+## Changelog da versão 4.1 Beta 1
+|||
+|-|-|
+|**Responsividade para telas de até 975px**|Compatilidade responsiva e design otimizado para dispositivos com telas de até 975px. Foco principal na Barra Superior que estava totalmente bugada na versão 4.0.|
+|**Correção de bugs**|A Barra Superior não ocupa mais do que a tela do usuário; Ao apertar em um atalho da Barra Superior ou do Acesso Rápido pelo celular, o fundo do botão não ficará mais azul, e obedecerá o design do site.|
+|||
 ## O que é o Lodestar Search?
 
 O Lodestar Search é um projeto feito com HTML e CSS, com o foco de criar uma página web onde ficarão centralizados todos os meios de busca em um só lugar, podendo servir de acesso rápido para uma inteligência artificial (ChatGPT, Copilot, Gemini, Claude e Perplexity) ou para um buscador de web (*será desenvolvido em breve*).
 
 O site foi pensado para ser prático e direto, diminuindo o número de cliques e escritas no navegador, eliminando você abrir várias abas no navegador ou ficar transportando de página em página até chegar onde você quer.
 
-No momento, o Search Central with AIs v3.0 está lançado como URL no GitHub Pages, mas para as versões beta ainda será necessário baixar os códigos e executá-los manualmente em sua máquina local.
+No momento, o Lodestar Search v4.0 está lançado como URL no GitHub Pages, mas para as versões beta, ainda será necessário baixar os códigos e executá-los manualmente em sua máquina local.
 
 ## Recursos e Seções
 
@@ -38,13 +44,9 @@ Além da comparação, está junto a imagem da IA e o título, para facilitar a 
 
 ## Planejamentos futuros
 
-**Novos buscadores de IA:** GitHub Copilot, Meta AI, DeepSeek etc.
-
-**Buscadores de Web sem IA:** Google, Bing e Modo IA do Google.
-
-**Barra Superior dinâmica:** Durante a rolagem, a Barra Superior te acompanha com um visual um pouco mais minimalista.
-
-**Logotipo:** Mudanças na logotipo do site, trazendo mais exclusividade.
-
-**Documentação das Atualizações:** PDFs descrevendo as principais novidades de cada versão. Possivelmente, será incluindo em algum momento no site.
-
+- **Novos buscadores de IA:** GitHub Copilot, Meta AI, DeepSeek etc.
+- **Buscadores de Web sem IA:** Google, Bing e Modo IA do Google.
+- **Barra Superior dinâmica:** Durante a rolagem, a Barra Superior te acompanha com um visual um pouco mais minimalista.
+- **Logotipo:** Mudanças na logotipo do site, trazendo mais exclusividade.
+- **Documentação das Atualizações:** PDFs descrevendo as principais novidades de cada versão. Possivelmente, será incluindo em algum momento no site.
+- **Migração da URL:** Hospedagem no Vercel e URL limpa e exclusiva (sem os parâmetros do GitHub Pages).
