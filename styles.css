@@ -92,7 +92,7 @@ body {
 }
 
 .seletor:hover {
-    border: 2.5px solid rgb(255, 63, 0);
+    border: 2.5px solid rgb(0, 63, 255);
     transform: scale(1.1);
 }
 
@@ -109,7 +109,7 @@ body {
 /* Seção de Comparativos */
 .secao-secundaria {
     border-radius: 24px;
-    background: linear-gradient(to top, rgb(127, 31, 255), rgb(63, 31, 255));
+    background: linear-gradient(to top, rgb(127, 0, 255), rgb(63, 0, 255));
     height: auto;
     margin: 20px;
     min-height: 25px;

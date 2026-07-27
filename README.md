@@ -1,10 +1,10 @@
-# Lodestar Search
+# Lodestar Search | Beta 2
 
-## Changelog da versão 4.1 Beta 1
+## Changelog da v4.1beta2
 |||
 |-|-|
-|**Responsividade para telas de até 975px**|Compatilidade responsiva e design otimizado para dispositivos com telas de até 975px. Foco principal na Barra Superior que estava totalmente bugada na versão 4.0.|
-|**Correção de bugs**|A Barra Superior não ocupa mais do que a tela do usuário; Ao apertar em um atalho da Barra Superior ou do Acesso Rápido pelo celular, o fundo do botão não ficará mais azul, e obedecerá o design do site.|
+|**Migração de PNG para WebP**|As imagens renderizadas no site agora utilizam o formato WebP, com foco em compatibilidade total com navegadores, otimização e redução de tamanho por arquivo. As imagens em formato PNG permanecem disponíveis na pasta images do projeto, porém sem utilização.|
+|**Mudanças sutis**|A borda colorida dos seletores do acesso rápido agora é azul; gradiente da seção de comparativos ajustada; a parte interna da logo do ChatGPT agora é um branco sólido, no lugar do transparente.|
 |||
 ## O que é o Lodestar Search?
 
